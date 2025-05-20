@@ -1,0 +1,5 @@
+pygame==2.5.2
+pymunk==6.6.0
+imageio[ffmpeg]==2.34.1
+moviepy
+scipy
